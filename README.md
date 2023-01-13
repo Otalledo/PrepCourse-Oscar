@@ -1,2 +1,1 @@
-# PrepCourse-Oscar
-prueba numero modulo 2
+este proyecto es una prueva
